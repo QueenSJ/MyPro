@@ -1,0 +1,28 @@
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\bin\Debug\MyWpf.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\bin\Debug\MyWpf.exe
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\bin\Debug\MyWpf.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf.g.resources
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf.exe
+c:\users\user\documents\visual studio 2015\Projects\MyWpf\MyWpf\obj\Debug\MyWpf.pdb
+F:\MyPro\MyWpf\MyWpf\bin\Debug\MyWpf.exe.config
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf.exe
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf.pdb
+F:\MyPro\MyWpf\MyWpf\bin\Debug\MyWpf.exe
+F:\MyPro\MyWpf\MyWpf\bin\Debug\MyWpf.pdb
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf.csprojResolveAssemblyReference.cache
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MainWindow.g.cs
+F:\MyPro\MyWpf\MyWpf\obj\Debug\App.g.cs
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf_MarkupCompile.cache
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf_MarkupCompile.lref
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MainWindow.baml
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf.g.resources
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf.Properties.Resources.resources
+F:\MyPro\MyWpf\MyWpf\obj\Debug\MyWpf.csproj.GenerateResource.Cache
