@@ -4,16 +4,19 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyWpf"
+		xmlns:view="clr-namespace:MyWpf.MyWpf.View"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-	<Grid  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Width="auto" Height="auto">
-		<Grid.ColumnDefinitions>
-			<ColumnDefinition Width="200"/>
-			<ColumnDefinition Width="8*"/>
-		</Grid.ColumnDefinitions>
-		<TabControl>
-		</TabControl>
-		<GridSplitter Grid.Column="0" HorizontalAlignment="Right" Width="4"/>
-
+        Title="MainWindow" Height="400" Width="300">
+	<Grid Background="AliceBlue">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="60"/>
+			<RowDefinition Height="60*"/>
+		</Grid.RowDefinitions>
+		<DockPanel Grid.Row="0" Background="Aqua">
+		</DockPanel>
+		<DockPanel Grid.Row="1" Background="AntiqueWhite">
+		</DockPanel>
+		<view:StatusBox Grid.Row="0"></view:StatusBox>
+		<view:GroundBox Grid.Row="1"/>
 	</Grid>
 </Window>
